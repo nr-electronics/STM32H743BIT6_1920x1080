@@ -1,0 +1,239 @@
+{
+  "Application": {
+    "Screens": [
+      {
+        "Name": "screen",
+        "Components": [
+          {
+            "Type": "AnalogClock",
+            "Name": "analogClock1",
+            "Width": 240,
+            "Height": 240,
+            "FileNameBackground": "__generated\\alternate_theme_images_widgets_analogclock_backgrounds_small_plain_dark.png",
+            "RotationCenterX": 120,
+            "RotationCenterY": 120,
+            "Preset": "alternate_theme\\presets\\analogclock\\small_plain_dark.json",
+            "Easing": "Back",
+            "EasingOption": "Out",
+            "ClockHands": [
+              {
+                "Type": "HourClockHand",
+                "FileNameHandImage": "__generated\\alternate_theme_images_widgets_analogclock_hands_small_hour_plain_dark.png",
+                "RotationCenterX": 9,
+                "RotationCenterY": 69
+              },
+              {
+                "Type": "MinuteClockHand",
+                "FileNameHandImage": "__generated\\alternate_theme_images_widgets_analogclock_hands_small_minute_plain_dark.png",
+                "RotationCenterX": 10,
+                "RotationCenterY": 87
+              },
+              {
+                "Type": "SecondClockHand",
+                "FileNameHandImage": "__generated\\alternate_theme_images_widgets_analogclock_hands_small_second_plain_dark.png",
+                "RotationCenterX": 2,
+                "RotationCenterY": 100
+              }
+            ],
+            "InitialHour": 10,
+            "InitialMinute": 10
+          },
+          {
+            "Type": "AnalogClock",
+            "Name": "analogClock3",
+            "X": 1680,
+            "Y": 840,
+            "Width": 240,
+            "Height": 240,
+            "FileNameBackground": "__generated\\alternate_theme_images_widgets_analogclock_backgrounds_small_plain_light.png",
+            "RotationCenterX": 120,
+            "RotationCenterY": 120,
+            "Easing": "Back",
+            "EasingOption": "Out",
+            "ClockHands": [
+              {
+                "Type": "HourClockHand",
+                "FileNameHandImage": "__generated\\alternate_theme_images_widgets_analogclock_hands_small_hour_plain_dark.png",
+                "RotationCenterX": 9,
+                "RotationCenterY": 69
+              },
+              {
+                "Type": "MinuteClockHand",
+                "FileNameHandImage": "__generated\\alternate_theme_images_widgets_analogclock_hands_small_minute_plain_dark.png",
+                "RotationCenterX": 10,
+                "RotationCenterY": 87
+              },
+              {
+                "Type": "SecondClockHand",
+                "FileNameHandImage": "__generated\\alternate_theme_images_widgets_analogclock_hands_small_second_plain_dark.png",
+                "RotationCenterX": 2,
+                "RotationCenterY": 100
+              }
+            ],
+            "InitialHour": 10,
+            "InitialMinute": 10
+          },
+          {
+            "Type": "AnalogClock",
+            "Name": "analogClock4",
+            "Y": 840,
+            "Width": 240,
+            "Height": 240,
+            "FileNameBackground": "__generated\\alternate_theme_images_widgets_analogclock_backgrounds_small_plain_light.png",
+            "RotationCenterX": 120,
+            "RotationCenterY": 120,
+            "Easing": "Back",
+            "EasingOption": "Out",
+            "ClockHands": [
+              {
+                "Type": "HourClockHand",
+                "FileNameHandImage": "__generated\\alternate_theme_images_widgets_analogclock_hands_small_hour_plain_dark.png",
+                "RotationCenterX": 9,
+                "RotationCenterY": 69
+              },
+              {
+                "Type": "MinuteClockHand",
+                "FileNameHandImage": "__generated\\alternate_theme_images_widgets_analogclock_hands_small_minute_plain_dark.png",
+                "RotationCenterX": 10,
+                "RotationCenterY": 87
+              },
+              {
+                "Type": "SecondClockHand",
+                "FileNameHandImage": "__generated\\alternate_theme_images_widgets_analogclock_hands_small_second_plain_dark.png",
+                "RotationCenterX": 2,
+                "RotationCenterY": 100
+              }
+            ],
+            "InitialHour": 10,
+            "InitialMinute": 10
+          },
+          {
+            "Type": "AnalogClock",
+            "Name": "analogClock5",
+            "X": 1680,
+            "Width": 240,
+            "Height": 240,
+            "FileNameBackground": "__generated\\alternate_theme_images_widgets_analogclock_backgrounds_small_plain_dark.png",
+            "RotationCenterX": 120,
+            "RotationCenterY": 120,
+            "Preset": "alternate_theme\\presets\\analogclock\\small_plain_dark.json",
+            "Easing": "Back",
+            "EasingOption": "Out",
+            "ClockHands": [
+              {
+                "Type": "HourClockHand",
+                "FileNameHandImage": "__generated\\alternate_theme_images_widgets_analogclock_hands_small_hour_plain_dark.png",
+                "RotationCenterX": 9,
+                "RotationCenterY": 69
+              },
+              {
+                "Type": "MinuteClockHand",
+                "FileNameHandImage": "__generated\\alternate_theme_images_widgets_analogclock_hands_small_minute_plain_dark.png",
+                "RotationCenterX": 10,
+                "RotationCenterY": 87
+              },
+              {
+                "Type": "SecondClockHand",
+                "FileNameHandImage": "__generated\\alternate_theme_images_widgets_analogclock_hands_small_second_plain_dark.png",
+                "RotationCenterX": 2,
+                "RotationCenterY": 100
+              }
+            ],
+            "InitialHour": 10,
+            "InitialMinute": 10
+          },
+          {
+            "Type": "AnalogClock",
+            "Name": "analogClock6",
+            "X": 722,
+            "Y": 302,
+            "Width": 476,
+            "Height": 476,
+            "FileNameBackground": "__generated\\alternate_theme_images_widgets_analogclock_backgrounds_large_shaded_light.png",
+            "RotationCenterX": 238,
+            "RotationCenterY": 238,
+            "Preset": "alternate_theme\\presets\\analogclock\\large_shaded_light.json",
+            "Easing": "Back",
+            "EasingOption": "Out",
+            "ClockHands": [
+              {
+                "Type": "HourClockHand",
+                "FileNameHandImage": "__generated\\alternate_theme_images_widgets_analogclock_hands_large_hour_shaded_light.png",
+                "RotationCenterX": 13,
+                "RotationCenterY": 109
+              },
+              {
+                "Type": "MinuteClockHand",
+                "FileNameHandImage": "__generated\\alternate_theme_images_widgets_analogclock_hands_large_minute_shaded_light.png",
+                "RotationCenterX": 14,
+                "RotationCenterY": 153
+              },
+              {
+                "Type": "SecondClockHand",
+                "FileNameHandImage": "__generated\\alternate_theme_images_widgets_analogclock_hands_large_second_shaded_light.png",
+                "RotationCenterX": 2,
+                "RotationCenterY": 168
+              }
+            ],
+            "InitialHour": 10,
+            "InitialMinute": 10
+          }
+        ],
+        "Interactions": []
+      }
+    ],
+    "CustomContainerDefinitions": [],
+    "Name": "MyApplication",
+    "Resolution": {
+      "Width": 1920,
+      "Height": 1080
+    },
+    "SelectedColorDepth": 16,
+    "StartupScreenName": "screen",
+    "SelectedStartupLanguage": "GB",
+    "TouchGfxPath": "../Middlewares/ST/touchgfx",
+    "UIPath": ".",
+    "AvailableColorDepths": [
+      16
+    ],
+    "AvailableLCDs": {
+      "16": "LCD16bpp"
+    },
+    "AvailableSections": [
+      "ExtFlashSection",
+      "IntFlashSection"
+    ],
+    "AvailableResolutions": [
+      {
+        "Width": 1920,
+        "Height": 1080
+      }
+    ],
+    "PhysicalButtons": [],
+    "FrameworkFeatures": {
+      "LCD16bpp": {
+        "Id": "LCD16bpp",
+        "IsEnabled": true
+      }
+    },
+    "GenerateAssetsCommand": "make -f simulator/gcc/Makefile assets -j8",
+    "PostGenerateCommand": "touchgfx update_project --project-file=simulator/msvs/Application.vcxproj",
+    "PostGenerateTargetCommand": "touchgfx update_project",
+    "CompileSimulatorCommand": "make -f simulator/gcc/Makefile -j8",
+    "RunSimulatorCommand": "build\\bin\\simulator.exe",
+    "LandscapeSkinX": 0,
+    "LandscapeSkinY": 0,
+    "PortraitSkinX": 0,
+    "PortraitSkinY": 0,
+    "DisplayOrientation": "Landscape",
+    "Family": "STM32H7",
+    "SubFamily": "STM32H743/753",
+    "Toolchain": "STM32CubeIDE",
+    "Platform": "m7",
+    "ProjectFile": "../BIT6_1920_1080.ioc",
+    "OptionalComponentsRoot": "../Middlewares/ST/touchgfx_components",
+    "OptionalComponents": [],
+    "AdditionalFeatures": []
+  },
+  "Version": "4.21.4"
+}
